@@ -1,0 +1,36 @@
+		1 Problem Name: Project Team
+URL: http://www.hackerearth.com/problem/algorithm/project-team/
+Solution File: team.rb
+
+2  Problem Name:  Ankit and Numbers
+URL: http://www.hackerearth.com/problem/algorithm/ankit-and-numbers-8/?utm_source=header&utm_medium=search&utm_campaign=he-search
+Solution File:anki.rb
+
+3 Problem Name:  Optimus prime
+URL: http://www.hackerearth.com/problem/algorithm/optimus-prime-2/
+Solution File: prime.rb
+
+4 Problem Name:  Hackerearth tour
+URL: http://www.hackerearth.com/problem/approximate/hackerearth-tour/
+Solution File:tour.rb
+
+5 Problem Name:  Gotta catch them all
+URL: http://www.hackerearth.com/problem/algorithm/gotta-catch-em-all/
+Solution File: stone.rb
+
+6 Problem Name:  The best internet browser
+URL: http://www.hackerearth.com/problem/algorithm/the-best-internet-browser-3/
+Solution File: website.rb
+
+7 Problem Name:  Find the multiples (Golf)
+URL: http://www.hackerearth.com/problem/golf/find-the-multiples/
+Solution File: golf.rb
+
+8 Problem Name:  Fizzbuzz
+URL: http://www.hackerearth.com/problem/algorithm/fizzbuzz/
+Solution File: number.rb
+
+9 Problem Name:  Crazy Kangaroo
+URL: http://www.hackerearth.com/problem/algorithm/crazy-kangaroo/
+Solution File: hc.rb
+
