@@ -33,4 +33,7 @@ Solution File: number.rb
 9 Problem Name:  Crazy Kangaroo
 URL: http://www.hackerearth.com/problem/algorithm/crazy-kangaroo/
 Solution File: hc.rb
+10 Problem Name : Girlfriends demand
+URL: http://www.hackerearth.com/problem/algorithm/girlfriends-demands/
+Solution File" demand.rb
 
