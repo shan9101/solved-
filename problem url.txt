@@ -37,3 +37,6 @@ Solution File: hc.rb
 URL: http://www.hackerearth.com/problem/algorithm/girlfriends-demands/
 Solution File" demand.rb
 
+11 Problem Name: Beating the dices in their own game
+URL:  http://www.hackerearth.com/problem/algorithm/beating-the-dices-in-their-own-game/
+Solution File: dice.rb
